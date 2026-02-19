@@ -15,4 +15,4 @@ This is a simple Amazon-style homepage clone built with **HTML, CSS, and JavaScr
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Shraddha20-shetty/Amazon_clone/edit/main
